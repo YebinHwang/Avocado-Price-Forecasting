@@ -1,6 +1,8 @@
 # Avocado-Price-Forecasting
 
-About Dataset
+Kaggle Dataset & Description: https://www.kaggle.com/datasets/timmate/avocado-prices-2020?resource=download
+
+### About Dataset
 UPD
 Updated on Feb 26, 2021 with the latest HAB data for 2020 (up to 2020-11-29). Newer data, incl. for 2021, have not yet been published by the HAB.
 
