@@ -1,5 +1,6 @@
 # Avocado-Price-Forecasting
 
+Tableau Visualization: https://public.tableau.com/app/profile/yebin.hwang?authMode=activationSuccess
 Kaggle Dataset & Description: https://www.kaggle.com/datasets/timmate/avocado-prices-2020?resource=download
 
 ### About Dataset
